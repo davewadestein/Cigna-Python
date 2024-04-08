@@ -8,6 +8,5 @@
 * Cloud-based solutions (no install needed)
   * Anaconda Cloud (https://www.anaconda.cloud)
     
-## Day 1 Recording (still processing as of 6:35 pm Eastern time)
+## Day 1 Recording
 * https://zoom.us/rec/share/o4vQ-FiWTozsBQ62hyJEUs7qbNVEPX4uMWAaRXO9qK4Lw5qzjmOPZVbTObm-IFU_.6RKMKeRwJOlXCcDE
-* You will need this to view the recording ... P7EcL%5Y
