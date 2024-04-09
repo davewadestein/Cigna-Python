@@ -7,6 +7,11 @@
   * Visual Studio Code (https://code.visualstudio.com)
 * Cloud-based solutions (no install needed)
   * Anaconda Cloud (https://www.anaconda.cloud)
-    
+
 ## Day 1 Recording
 * https://zoom.us/rec/share/o4vQ-FiWTozsBQ62hyJEUs7qbNVEPX4uMWAaRXO9qK4Lw5qzjmOPZVbTObm-IFU_.6RKMKeRwJOlXCcDE
+* P7EcL%5Y
+
+## Lunch times
+* 11:30 Central/12:30 Eastern (30 mins.)
+* 11:30 Pacific/12:30 Mountain (30 mins.)
