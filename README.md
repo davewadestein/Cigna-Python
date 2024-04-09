@@ -8,6 +8,9 @@
 * Cloud-based solutions (no install needed)
   * Anaconda Cloud (https://www.anaconda.cloud)
 
+## Python formatting (PEP-8)
+* https://peps.python.org/pep-0008/
+  
 ## Day 1 Recording
 * https://zoom.us/rec/share/o4vQ-FiWTozsBQ62hyJEUs7qbNVEPX4uMWAaRXO9qK4Lw5qzjmOPZVbTObm-IFU_.6RKMKeRwJOlXCcDE
 * P7EcL%5Y
