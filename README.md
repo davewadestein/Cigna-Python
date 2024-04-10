@@ -16,7 +16,7 @@
 
 ## Day 3 Recording (still processing)
 * https://zoom.us/rec/share/3SnFYOvJKznDzH6oHEjWwz7TxF7Ssq_voi2nGP3tPoRn95f2YTzUbqOFaL98M81-.ZJZaSa4omAaY9RsJ 
-* 'V'.lower() + '$' + 'o'.upper() + str(33) + 'r'.upper() + '^' + 'X'.lower()
+* 'V'.lower() + '$0' + str(33) + 'r'.upper() + '^' + 'X'.lower()
 * if the above doesn't work, change the capital O to a 0
   
 ## Day 2 Recording
