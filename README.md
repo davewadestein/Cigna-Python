@@ -13,7 +13,7 @@
   
 ## Day 2 Recording
 * https://zoom.us/rec/share/Y9-R4BCt-xcSYnCRE3RiskehhD0sTqGjrotzN9HHMYk0ruZksZ0aQvw2aY2Vdl2d.8f6PXP6tn3naXSVN 
-* str(2 + 3) + '!&%' + 'C'.lower() + 'ugq'.upper()`
+* str(2 + 3) + '!&%' + 'C'.lower() + 'ugq'.upper()
 
 ## Day 1 Recording
 * https://zoom.us/rec/share/o4vQ-FiWTozsBQ62hyJEUs7qbNVEPX4uMWAaRXO9qK4Lw5qzjmOPZVbTObm-IFU_.6RKMKeRwJOlXCcDE
