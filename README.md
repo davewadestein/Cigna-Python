@@ -10,6 +10,9 @@
 
 ## Python formatting (PEP-8)
 * https://peps.python.org/pep-0008/
+
+## Course Evaluation Link:
+* https://www.surveymonkey.com/r/XJ9X3Q9
   
 ## Day 2 Recording
 * https://zoom.us/rec/share/Y9-R4BCt-xcSYnCRE3RiskehhD0sTqGjrotzN9HHMYk0ruZksZ0aQvw2aY2Vdl2d.8f6PXP6tn3naXSVN 
