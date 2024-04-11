@@ -8,8 +8,10 @@
 * Cloud-based solutions (no install needed)
   * Anaconda Cloud (https://www.anaconda.cloud)
 
-## Python formatting (PEP-8)
-* https://peps.python.org/pep-0008/
+### Resources
+* Python formatting (PEP-8) https://peps.python.org/pep-0008/
+* Python Tutor https://pythontutor.com/
+* ChatGPT https://chat.openai.com/
 
 ## Course Evaluation Link:
 * https://www.surveymonkey.com/r/XJ9X3Q9
@@ -24,7 +26,3 @@
 ## Day 1 Recording
 * https://zoom.us/rec/share/o4vQ-FiWTozsBQ62hyJEUs7qbNVEPX4uMWAaRXO9qK4Lw5qzjmOPZVbTObm-IFU_.6RKMKeRwJOlXCcDE
 * P7EcL%5Y
-
-## Lunch times
-* 11:30 Central/12:30 Eastern (30 mins.)
-* 11:30 Pacific/12:30 Mountain (30 mins.)
