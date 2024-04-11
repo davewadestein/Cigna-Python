@@ -14,7 +14,7 @@
 ## Course Evaluation Link:
 * https://www.surveymonkey.com/r/XJ9X3Q9
 
-## Day 3 Recording (still processing)
+## Day 3 Recording
 * https://zoom.us/rec/share/3SnFYOvJKznDzH6oHEjWwz7TxF7Ssq_voi2nGP3tPoRn95f2YTzUbqOFaL98M81-.ZJZaSa4omAaY9RsJ 
 * 'V'.lower() + '$0' + str(33) + 'r'.upper() + '^' + 'X'.lower()  
 ## Day 2 Recording
